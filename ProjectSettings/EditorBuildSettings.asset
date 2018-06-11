@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartupScene.unity
+    guid: 0ca4a2a44f66840559fab41f4bde7da9
+  - enabled: 1
+    path: Assets/Scenes/ServerPlotTestScene.unity
+    guid: 28fe091719d6e479bbe5ecf44d33355c
+  - enabled: 1
+    path: Assets/Scenes/ClientPlotTestScene.unity
+    guid: 63b5c18e2f49f4614b722d91be4fadb5
+  - enabled: 1
+    path: Assets/Scenes/Simple4SplitScene.unity
+    guid: ea6f38195f544c9478ddfc5235152571
